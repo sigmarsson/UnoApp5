@@ -14,7 +14,7 @@ namespace Weather.History
 {
     public sealed partial class PrismApp
     {
-        internal static Window Window;
+       // internal static Window Window;
 
 #if WINDOWS
         internal static XamlRoot MainXamlRoot { get; private set; }

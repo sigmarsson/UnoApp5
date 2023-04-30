@@ -82,5 +82,9 @@
 	  <Reference Include="Prism.Uno">
 	    <HintPath>..\UnoApp5.Mobile\Prism\Prism.Uno.dll</HintPath>
 	  </Reference>
-	</ItemGroup>
+    <Reference Include="Prism">
+      <HintPath>..\UnoApp5.Mobile\Prism\Prism.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
 </Project>

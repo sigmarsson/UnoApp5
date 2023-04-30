@@ -14,6 +14,7 @@ using Prism.Ioc;
 using Prism.Modularity;
 using Prism.Regions;
 using Prism.DryIoc;
+using Prism;
 using Uno.Extensions.Hosting;
 
 namespace Weather.History
